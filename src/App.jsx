@@ -5,7 +5,7 @@ function App() {
 
 
   return (
-      <div className="grid grid-cols-1 lg:grid-cols-3 place-items-center p-4 pt-6 gap-4">
+      <div className="grid grid-cols-1 lg:grid-cols-3 place-items-center justify-center p-4 pt-6 gap-20">
           {data.map(lab=>(
               <ProgressCard
                   name={lab.name}

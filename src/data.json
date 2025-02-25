@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Collision Detection",
-    "sections": [true, false],
+    "sections": [true, true],
     "points": [5, 5],
     "image": "cd.png",
     "url": "https://github.com/mmcs-gd/collision_detection_2022",
@@ -10,28 +10,29 @@
   },
   {
     "id": 2,
-    "name": "Locked",
-    "sections": [false],
-    "points": [10],
+    "name": "Space Invaders",
+    "sections": [true],
+    "points": [15],
     "image": "space-invaders.jpeg",
-    "url": "",
-    "locked": true
+    "url": "https://github.com/mmcs-gd/space-invaders",
+    "locked": false
   },
   {
     "id": 3,
-    "name": "Locked",
-    "sections": [false],
-    "points": [10],
+    "name": "Tetris",
+    "sections": [true],
+    "points": [15],
     "image": "tetris.jpg",
-    "url": "",
-    "locked": true
+    "url": "https://github.com/Wolwer1nE/tetris",
+    "locked": false
   },
   {
     "id": 4,
     "name": "Locked",
-    "sections": [false, false],
-    "image": null,
-    "url": "",
+    "sections": [false],
+    "points": [15],
+    "image": "steering.jpg",
+    "url": null,
     "locked": true
   },
   {
