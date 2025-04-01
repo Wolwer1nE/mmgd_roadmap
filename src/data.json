@@ -28,12 +28,12 @@
   },
   {
     "id": 4,
-    "name": "Locked",
-    "sections": [false],
+    "name": "Steerings",
+    "sections": [true],
     "points": [15],
     "image": "steering.jpg",
-    "url": null,
-    "locked": true
+    "url": "https://github.com/Wolwer1nE/aurora2023",
+    "locked": false
   },
   {
     "id": 5,
